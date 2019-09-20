@@ -15,3 +15,4 @@
     }
     ```
 6. **Experience:** I have done projects from “Introduction to HTML” and “Learn CSS” on [codeacademy]( https://www.codecademy.com) and “Знакомство с HTML и CSS”, “Основы HTML”, and “Основы CSS” on [htmlacademy]( https://htmlacademy.ru).
+7. **Education:** courses on [codeacademy]( https://www.codecademy.com) and [htmlacademy]( https://htmlacademy.ru) and learning basic Javascript on [learn.javascript](https://learn.javascript.ru/).
