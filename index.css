@@ -1,0 +1,40 @@
+body {
+    display: block;
+    width: 1024px;
+    margin: auto;
+    font-size: 15px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 14px;
+}
+
+figure {
+    float: right;
+}
+
+li {
+    margin-top: 10px;
+}
+
+a {
+    color: blue;
+}
+
+.code {
+    background: #fffff5;
+    font-family: "Courier New", Courier, monospace; 
+    padding: 7px;
+    font-size: 80%;
+    margin: 0 0 1em;
+}
+
+footer {
+    font-style: italic;
+    margin-top: 30px;
+}
