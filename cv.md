@@ -16,3 +16,5 @@
     ```
 6. **Experience:** I have done projects from “Introduction to HTML” and “Learn CSS” on [codeacademy]( https://www.codecademy.com) and “Знакомство с HTML и CSS”, “Основы HTML”, and “Основы CSS” on [htmlacademy]( https://htmlacademy.ru).
 7. **Education:** courses on [codeacademy]( https://www.codecademy.com) and [htmlacademy]( https://htmlacademy.ru) and learning basic Javascript on [learn.javascript](https://learn.javascript.ru/).
+8. **English:** I have participated in different projects that required communicating with foreigners and reading technical specifications in English for 5 years. 
+I currently work for a Swiss company where English is the main language so that I have spoken and written in English every day since April 2019.
