@@ -1,3 +1,4 @@
 1. Maria Solomina
 2. Cell phone: +79276060326, email: m_sol88@mail.ru
 3. **Summary:** I am looking for a position of Junior Front end Developer that would help me to build up my skills. I have always been interested in programming because it allows you to visually see the result of your work. Despite small experience in that field, I have a good capability to learn things. I am also technically savvy and ready to devote additional time to studying the necessary information.
+4. **Skills:** basic knowledge of HTML and CSS.
